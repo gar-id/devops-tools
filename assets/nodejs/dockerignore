@@ -1,0 +1,14 @@
+# NodeJS
+## Packages
+package-lock.json
+yarn-error.lo*
+npm-debug.lo*
+yarn-debug.lo*
+
+## Logs
+logs
+*.log
+
+## Dependency directories
+node_modules
+**/node_modules

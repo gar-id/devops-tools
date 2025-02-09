@@ -1,0 +1,19 @@
+# Laravel 
+bootstrap/cache
+storage/framework
+storage/logs
+public/hot
+public/storage
+storage/*.key
+vendor
+tests
+
+# PHP 
+.phpstorm.meta.php
+.php-cs-fixer.cache
+.phpunit.result.cache
+phpstan.neon
+phpunit.xml
+Homestead.json
+Homestead.yaml
+

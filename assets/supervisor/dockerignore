@@ -1,0 +1,3 @@
+# Supervisord
+supervisord.log
+supervisord.pid
