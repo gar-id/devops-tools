@@ -1,0 +1,7 @@
+client_header_timeout 3000s;
+client_body_timeout 3000s;
+fastcgi_read_timeout 3000s;
+client_max_body_size 200M;
+fastcgi_buffers 8 128k;
+fastcgi_buffer_size 128k;
+charset utf-8;
